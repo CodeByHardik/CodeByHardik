@@ -1,6 +1,7 @@
 # 💡 Hardik Dubey | Future Innovator 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Enthusiast;Software+Developer;Embedded+Systems+Engineer;Problem+Solver;Potato+Gamer:D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Tech+Enthusiast+⚡;Software+Developer+💻;Embedded+Systems+Engineer+🔧;Problem+Solver+🧠;Potato+Gamer+🎮🥔)]
+
 
 Hey there! I'm **Hardik Dubey**, a passionate **gamer, tech enthusiast, developer, and problem solver** who thrives on **software development, embedded systems, and optimization**. I love crafting efficient solutions, writing clean code, and exploring new technologies. 💻⚡
 
@@ -44,19 +45,9 @@ I love being part of **tech communities & open-source projects**. Here's what I 
 - 🤝 **Collaboration & Open Source** – Learning, sharing, and contributing to projects.  
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?
-size=22&duration=3000&color=F7B500&center=true&vCenter=true&width=700&lines=
-Let's+break+limits,+blend+logic,+and+craft+the+unseen!; 
-Where+the+system+ends,+we+begin.; 
-Let's+rewrite+the+rules—one+line+at+a+time.; 
-Build,+optimize,+and+create+the+future+together!; 
-Let’s+make+a+difference.+Let’s+compile+the+world!; 
-Errors+are+just+undiscovered+shortcuts.; 
-We+don’t+find+exploits—We+create+them.; 
-Innovation+is+our+blueprint,+chaos+is+our+playground.; 
-Glitches+and+bugs+should+fear+us.; 
-Welcome+to+the+revolution!)]
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=Let's+break+limits+%7C+Blend+logic+%7C+Craft+the+unseen!;Where+the+system+ends+%7C+We+begin.;Let's+rewrite+the+rules+one+line+at+a+time!;Build+%7C+Optimize+%7C+Create+the+future+together!;Let’s+make+a+difference+%7C+Let’s+compile+the+world!;Errors+are+just+undiscovered+shortcuts!;We+don’t+find+exploits+%7C+We+create+them!;Innovation+is+our+blueprint+%7C+Chaos+is+our+playground!;Glitches+and+bugs+should+fear+us!;Welcome+to+the+revolution!)](https://git.io/typing-svg)
 
+---
 <details>
   <summary>📊 GitHub Stats</summary>
   
@@ -77,5 +68,6 @@ Welcome+to+the+revolution!)]
 
 Contact me :D anytime any where!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have+a+good+day;I+am+waiting+for+you+again;Never+hesitate;I+am+here+for+you;I+would+be+glad+to+help+you;I+will+try+my+best;Enjoy+the+next+24+hours+of+your+life)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Have+a+good+day+%F0%9F%98%8A;I+am+waiting+for+you+again+%E2%9C%8C%EF%B8%8F;Never+hesitate+%E2%9C%85;I+am+here+for+you+%F0%9F%A4%9D;Glad+to+help+you+%F0%9F%A4%97;I+will+try+my+best+%E2%9C%A8;Enjoy+the+next+24+hours+%F0%9F%8C%9F)](https://git.io/typing-svg)
+
 
