@@ -1,6 +1,6 @@
 # 💡 Hardik Dubey | Future Innovator 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Enthusiast;Software+Developer;Embedded+Systems+Engineer;Problem+Solver;:))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Enthusiast;Software+Developer;Embedded+Systems+Engineer;Problem+Solver)](https://git.io/typing-svg)
 
 Hey there! I'm **Hardik Dubey**, a passionate **tech enthusiast, developer, and problem solver** who thrives on **software development, embedded systems, and optimization**. I love crafting efficient solutions, writing clean code, and exploring new technologies. 💻⚡
 
@@ -36,7 +36,7 @@ Hey there! I'm **Hardik Dubey**, a passionate **tech enthusiast, developer, and 
 
 I love being part of **tech communities & open-source projects**. Here's what I bring to the table:  
 
-- 💡 **Software Development & Optimization** – Writing efficient, scalable code & boosting performance.  
+- 💡 **Software Development & Optimization** – Writing efficient, scalable code & optimise performance.  
 - 🔧 **Embedded Systems & IoT** – Designing smart hardware solutions.  
 - 🎯 **Problem-Solving & Debugging** – Finding and fixing issues in code & systems.  
 - 🤝 **Collaboration & Open Source** – Learning, sharing, and contributing to projects.  
@@ -56,8 +56,7 @@ I love being part of **tech communities & open-source projects**. Here's what I 
 
 ## 🌍 Connect with Me  
 
-- ✉️ **Email**: [My gmail](mailto:titan.d3athopp@gmail.com)  
-- 🏗️ **GitHub**: [Your GitHub Here]  
+- ✉️ **Email**: [My gmail](mailto:titan.d3athopp@gmail.com)   
 - 🎮 **Discord**: [Discord Profile](https://discord.com/users/1280209446911348737)
 - 🌐 **Website (Soon)** 🚀  
 
