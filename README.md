@@ -26,8 +26,8 @@ Currently a Class 10 (ICSE) student aspiring to pursue engineering with a focus 
 ---
 
 ## 🌍 Connect with Me  
-- Discord: [CodeByHardik#1280](https://discord.com/users/1280209446911348737)  
-- Reddit: [https://www.reddit.com/user/CodeByHardik/](https://www.reddit.com/user/CodeByHardik/)  
+- Discord: [Discord Profile](https://discord.com/users/1280209446911348737)  
+- Reddit: [CodeByHardik](https://www.reddit.com/user/CodeByHardik/)  
 
 ---
 
